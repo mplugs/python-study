@@ -9,3 +9,7 @@ How it works, I wandoering
 
 I just learn that " git commit -a"
 this command add file which is modified , but only apply already commited file
+
+this branch is hotfix
+I don't "git merge from master yet"
+but I add new content for conflict test"
