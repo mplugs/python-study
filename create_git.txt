@@ -16,3 +16,7 @@ and I saw the file who changed than before
 
 this contents added at master branch
 I will test independent save file
+
+this branch is hotfix
+I don't "git merge from master yet"
+but I add new content for conflict test"
