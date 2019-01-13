@@ -13,3 +13,6 @@ this command add file which is modified , but only apply already commited file
 Learn git merge 
 I apply "git merge hotfix"
 and I saw the file who changed than before
+
+this contents added at master branch
+I will test independent save file
