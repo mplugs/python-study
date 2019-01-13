@@ -6,3 +6,6 @@ git init, git add, git commit
 
 Now I am studying git branch 
 How it works, I wandoering
+
+I just learn that " git commit -a"
+this command add file which is modified , but only apply already commited file
