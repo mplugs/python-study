@@ -1,0 +1,2 @@
+Git Create Today
+I start studying how to use git repository
