@@ -3,3 +3,6 @@ I start studying how to use git repository
 
 Today 1st day
 git init, git add, git commit
+
+Now I am studying git branch 
+How it works, I wandoering
