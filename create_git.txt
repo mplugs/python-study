@@ -9,3 +9,7 @@ How it works, I wandoering
 
 I just learn that " git commit -a"
 this command add file which is modified , but only apply already commited file
+
+Learn git merge 
+I apply "git merge hotfix"
+and I saw the file who changed than before
