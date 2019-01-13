@@ -1,2 +1,5 @@
 Git Create Today
 I start studying how to use git repository
+
+Today 1st day
+git init, git add, git commit
