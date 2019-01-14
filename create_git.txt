@@ -20,3 +20,6 @@ I will test independent save file
 this branch is hotfix
 I don't "git merge from master yet"
 but I add new content for conflict test"
+
+this message writed on master branch on local server
+I will push remote server, but this file is saved already remote server
