@@ -20,3 +20,6 @@ I will test independent save file
 this branch is hotfix
 I don't "git merge from master yet"
 but I add new content for conflict test"
+
+this message is writed on github.com
+I will test remote pull and pastch
