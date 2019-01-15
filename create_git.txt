@@ -23,3 +23,7 @@ but I add new content for conflict test"
 
 this message writed on master branch on local server
 I will push remote server, but this file is saved already remote server
+
+this message is writed on github.com
+I will test remote pull and pastch
+
